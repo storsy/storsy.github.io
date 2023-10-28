@@ -1,1 +1,4 @@
+# @see https://docs.github.com/ru/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 
+theme: minima
+#remote_theme: THEME-NAME
